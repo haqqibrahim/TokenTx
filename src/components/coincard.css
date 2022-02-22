@@ -1,0 +1,41 @@
+.bgCard {
+  border-radius: 10px;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  /*text-align: center;*/
+  justify-content: center;
+}
+
+.cardIcon {
+  margin-top: 7.5px;
+  margin-left: -12px;
+  height: 30px;
+  width: 30px;
+}
+
+.stacks {
+	margin-top: -30px;
+	margin-left: 25px;
+}
+
+.stacksB{
+	color: #ffffff;
+	font-size: small;
+}
+
+.stacksC {
+	color: grey;
+	margin-top: -12px;
+	font-size: small;
+}
+
+.stacks2 {
+	margin-top: -35px;
+	margin-left: 143px;
+}
+.stacksD {
+	color: lightgreen;
+	margin-top: -12px;
+	font-size: small;
+}

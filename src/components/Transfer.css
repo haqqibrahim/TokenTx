@@ -1,0 +1,28 @@
+.title {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: #181516;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.centeredMask {
+	display: inline-block;
+	
+}
+
+.centeredSubText {
+  color: #181516;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-weight: 500;
+  align-content: center;
+}
+
+.divider{
+    width:10px;
+    height:auto;
+    display:inline-block;
+}

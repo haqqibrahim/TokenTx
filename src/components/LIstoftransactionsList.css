@@ -1,0 +1,12 @@
+/*.list {
+  margin: 10px 10px 20px 0;
+}*/
+
+.listContainer {
+	background-color: #A6AECB;
+	margin-top: 25px;
+	border-radius: 15px;
+	justify-content: center;
+	align-content: center;
+	width: 100%;
+}

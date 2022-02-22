@@ -1,0 +1,17 @@
+.btnGet {
+	padding-top: 10px;
+	width: 8em;
+	background-color: #386BEF;
+	border: #386BEF;
+	border-radius: 5px;
+}
+
+.btnGet:hover {
+	background-color: #386BEF !important;
+  border: #386BEF !important;
+}
+
+.btnGet:active {
+	background-color: #386BEF !important;
+  box-shadow: none !important;
+}

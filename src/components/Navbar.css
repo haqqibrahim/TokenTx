@@ -1,0 +1,34 @@
+.navbarColor {
+  background-color: #FDFDFE;
+}
+.containerS {
+  box-shadow: #181516;
+}
+
+.Navs {
+  color: #386BEF !important;
+}
+
+.NavItem {
+  color: #181516;
+  font-weight: 500;
+}
+
+.btnLogin {
+  width: 5.8em;
+  background-color: #386BEF;
+  border: #386BEF;
+  border-radius: 5px;
+  color: #ffffff
+}
+
+.btnLogin:hover {
+  background-color: #386BEF !important;
+  border: #386BEF !important;
+}
+
+.btnLogin:focus {
+  background-color: #386BEF !important;
+  box-shadow: none !important;
+}
+

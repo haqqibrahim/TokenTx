@@ -1,0 +1,34 @@
+.headingColor {
+	color: #181516;
+	font-weight: bold;
+  }
+  
+  /*.centered {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+  
+  }*/
+  
+  @media only screen and (max-width: 768px) {
+	.centered {
+	  
+	  text-align: center;
+	 
+	}
+  }
+  
+  .containerS {
+	padding-top: 20vh;
+  }
+  
+  .centeredB {
+	color: #181516;
+  }
+  /*.centeredB {
+	
+	justify-content: center;
+	text-align: center;
+	display: flex;
+  }*/
+  
